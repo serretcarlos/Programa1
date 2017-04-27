@@ -1,0 +1,6 @@
+C:\Users\Carlos\Documents\ITC\6to Semestre\Calidad y pruebas de software\Laboratorio 1\Programa1\Programa1\bin\Debug\Programa1.exe.config
+C:\Users\Carlos\Documents\ITC\6to Semestre\Calidad y pruebas de software\Laboratorio 1\Programa1\Programa1\bin\Debug\Programa1.exe
+C:\Users\Carlos\Documents\ITC\6to Semestre\Calidad y pruebas de software\Laboratorio 1\Programa1\Programa1\bin\Debug\Programa1.pdb
+C:\Users\Carlos\Documents\ITC\6to Semestre\Calidad y pruebas de software\Laboratorio 1\Programa1\Programa1\obj\Debug\Programa1.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\ITC\6to Semestre\Calidad y pruebas de software\Laboratorio 1\Programa1\Programa1\obj\Debug\Programa1.exe
+C:\Users\Carlos\Documents\ITC\6to Semestre\Calidad y pruebas de software\Laboratorio 1\Programa1\Programa1\obj\Debug\Programa1.pdb
